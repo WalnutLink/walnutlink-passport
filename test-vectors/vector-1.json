@@ -1,0 +1,31 @@
+{
+ "issuer_seed_b64u": "AAECAwQFBgcICQoLDA0ODxAREhMUFRYXGBkaGxwdHh8",
+ "issuer_pub_b64u": "A6EHv_POEL4dcN0Y50vAmWfk1jCbpQ1fHdyGZBJVMbg",
+ "agent_seed_b64u": "ICEiIyQlJicoKSorLC0uLzAxMjM0NTY3ODk6Ozw9Pj8",
+ "agent_pub_b64u": "Kay64UG8yvCyLhqU000LxzYeUm0L_hLIl5S8kyKWbdc",
+ "sub": "did:wl:fgwlvykbxtfpbmrodkkngtily4",
+ "payload": {
+  "v": 1,
+  "iss": "https://walnutlink.ai",
+  "sub": "did:wl:fgwlvykbxtfpbmrodkkngtily4",
+  "kid": "wl-2026-10",
+  "iat": 1792900000,
+  "nbf": 1792900000,
+  "exp": null,
+  "handle": "example-agent",
+  "tier": "local",
+  "caps": [
+   "tech-quote"
+  ],
+  "quota": {
+   "deep": 5,
+   "post": 1200,
+   "anon": 0
+  },
+  "att": [],
+  "rev": "https://walnutlink.ai/.well-known/walnut-passport-revocations.json"
+ },
+ "payload_b64u": "eyJhdHQiOltdLCJjYXBzIjpbInRlY2gtcXVvdGUiXSwiZXhwIjpudWxsLCJoYW5kbGUiOiJleGFtcGxlLWFnZW50IiwiaWF0IjoxNzkyOTAwMDAwLCJpc3MiOiJodHRwczovL3dhbG51dGxpbmsuYWkiLCJraWQiOiJ3bC0yMDI2LTEwIiwibmJmIjoxNzkyOTAwMDAwLCJxdW90YSI6eyJhbm9uIjowLCJkZWVwIjo1LCJwb3N0IjoxMjAwfSwicmV2IjoiaHR0cHM6Ly93YWxudXRsaW5rLmFpLy53ZWxsLWtub3duL3dhbG51dC1wYXNzcG9ydC1yZXZvY2F0aW9ucy5qc29uIiwic3ViIjoiZGlkOndsOmZnd2x2eWtieHRmcGJtcm9ka2tuZ3RpbHk0IiwidGllciI6ImxvY2FsIiwidiI6MX0",
+ "signature_b64u": "r6RzDOuWKwOdv8ae8_M26A0XeBe2PzzeeX0-jddvIwB616cbzgK5ARrHuFKTt43f6QF5YUBvJMEplgaffuLnCQ",
+ "token": "wlp1.eyJhdHQiOltdLCJjYXBzIjpbInRlY2gtcXVvdGUiXSwiZXhwIjpudWxsLCJoYW5kbGUiOiJleGFtcGxlLWFnZW50IiwiaWF0IjoxNzkyOTAwMDAwLCJpc3MiOiJodHRwczovL3dhbG51dGxpbmsuYWkiLCJraWQiOiJ3bC0yMDI2LTEwIiwibmJmIjoxNzkyOTAwMDAwLCJxdW90YSI6eyJhbm9uIjowLCJkZWVwIjo1LCJwb3N0IjoxMjAwfSwicmV2IjoiaHR0cHM6Ly93YWxudXRsaW5rLmFpLy53ZWxsLWtub3duL3dhbG51dC1wYXNzcG9ydC1yZXZvY2F0aW9ucy5qc29uIiwic3ViIjoiZGlkOndsOmZnd2x2eWtieHRmcGJtcm9ka2tuZ3RpbHk0IiwidGllciI6ImxvY2FsIiwidiI6MX0.r6RzDOuWKwOdv8ae8_M26A0XeBe2PzzeeX0-jddvIwB616cbzgK5ARrHuFKTt43f6QF5YUBvJMEplgaffuLnCQ"
+}
